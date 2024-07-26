@@ -6,7 +6,7 @@ Class LED
 
 classDiagram
 class LED {
-  int Port_Number
+  Port_Number : int
   LED()  
   ON()
   OFF()
