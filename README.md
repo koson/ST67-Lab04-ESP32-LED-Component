@@ -4,7 +4,7 @@ ESP-IDF รองรับการเขียนโปรแกรมในภ
 
 พิจารณา class ต่อไปนี้ 
 
-## Class LED
+Class LED
 
 ```mermaid
 classDiagram
