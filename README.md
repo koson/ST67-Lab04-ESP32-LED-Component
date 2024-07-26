@@ -8,7 +8,7 @@ ESP-IDF รองรับการเขียนโปรแกรมในภ
 classDiagram
 class LED {
   Port_Number : int
-  LED()  
+  LED((Port_Number : int)  
   ON()
   OFF()
 }
