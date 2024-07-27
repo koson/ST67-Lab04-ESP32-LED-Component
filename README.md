@@ -44,7 +44,9 @@ void app_main(void)
 ```
 
 ### 2. สร้าง  Component ใหม่ ชื่อ LED
+
 2.1 เปลี่ยนชื่อไฟล์ LED.c เป็น LED.cpp
+
 2.2 เพิ่มการประกาศคลาสลงใน LED.h โดยให้ใส่ `#include "driver/gpio.h"` ด้วย เพื่อใช้งาน GPIO
 
 #### LED.h
@@ -84,9 +86,11 @@ void LED::OFF()
     gpio_set_level((gpio_num_t)PinNumber,0);
 }
 ```
+
 2.4 แก้ไขไฟล์ CMakeLists.txt ใน component/LED ให้เป็นดังต่อไปนี้
 
 #### CMAkeLists.txt (ใน component/LED)
+
 ```Cmake
 idf_component_register(SRCS "LED.cpp"
                     INCLUDE_DIRS "include"
