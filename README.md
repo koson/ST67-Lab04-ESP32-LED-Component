@@ -138,9 +138,7 @@ Build และทดสอบบนบอร์ด ESP32
 
 ## บันทึกผล
 
-1.เว็บไซร์ที่ ทำการ Commit จาก โปรแกรมบน VS code ไปบน Git Hub 
-
-https://github.com/AnchisaPhetnoi/ESP32-LED-Component.git
+1.เว็บไซร์ที่ ทำการ Commit จาก โปรแกรมบน VS code ไปบน Git Hub  https://github.com/AnchisaPhetnoi/ESP32-LED-Component.git
 
 ![image](https://github.com/user-attachments/assets/0c72ce90-250a-4d6c-a327-52c9a921ddb0)
 
