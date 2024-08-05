@@ -151,7 +151,9 @@ Build และทดสอบบนบอร์ด ESP32
   ![452673405_456774763843924_4732536554693144361_n](https://github.com/user-attachments/assets/34db67b6-6199-46c9-964b-a09c9949d7b3)
 
   วิดิโอ (ที่ลงใน tiktok ส่งเป็นลิงค์)
+  https://vt.tiktok.com/ZSYoXuJWr/
   
+![ภาพ](https://github.com/user-attachments/assets/8770c865-fd6d-4d91-8472-a506592d6dcf)
 
 
 
