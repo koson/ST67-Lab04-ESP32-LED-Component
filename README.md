@@ -155,6 +155,7 @@ Build และทดสอบบนบอร์ด ESP32
   
 ![ภาพ](https://github.com/user-attachments/assets/8770c865-fd6d-4d91-8472-a506592d6dcf)
 
+![ภาพ](https://github.com/user-attachments/assets/f68a2b86-6508-4f49-8f20-89ec40f34334)
 
 
 
