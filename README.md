@@ -135,3 +135,42 @@ void app_main(void)
 ```
 
 Build และทดสอบบนบอร์ด ESP32
+
+## บันทึกผล
+
+1.เว็บไซร์ที่ ทำการ Commit จาก โปรแกรมบน VS code ไปบน Git Hub  https://github.com/AnchisaPhetnoi/ESP32-LED-Component.git
+
+![image](https://github.com/user-attachments/assets/0c72ce90-250a-4d6c-a327-52c9a921ddb0)
+
+2.รูปภาพ 
+  ผลลัพธ์: จากการทดลอง คือหลอดไฟดวงที่ 1 และ ดวงที่ 2 นั้นติดและดับสลับกัน 
+
+  รูปภาพ
+  
+  ![453654008_335158616223189_6564999699179168474_n](https://github.com/user-attachments/assets/cfbc3160-df68-4f72-b1d8-bd88b34f19e5)
+  ![452673405_456774763843924_4732536554693144361_n](https://github.com/user-attachments/assets/34db67b6-6199-46c9-964b-a09c9949d7b3)
+
+  วิดิโอ (ที่ลงใน tiktok ส่งเป็นลิงค์)
+  https://vt.tiktok.com/ZSYoXuJWr/
+  
+![ภาพ](https://github.com/user-attachments/assets/8770c865-fd6d-4d91-8472-a506592d6dcf)
+
+![ภาพ](https://github.com/user-attachments/assets/f68a2b86-6508-4f49-8f20-89ec40f34334)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
