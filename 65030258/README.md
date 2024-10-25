@@ -3,4 +3,4 @@
 
 ST67-Lab04-ESP32-LED-Component
 
-https://github.com/SitthaKlaphanich/ST67-Lab04-ESP32-LED-Component 
+https://github.com/SitthaKlaphanich/LED_Test
